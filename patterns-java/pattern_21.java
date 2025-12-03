@@ -13,7 +13,7 @@ public class pattern_21 {
 
         System.out.print("Enter the n value: ");
         int n = sc.nextInt();
-        System.out.print("Eter the num value: ");
+        System.out.print("Enter the num value: ");
         int num = sc.nextInt();
 
         for (int i=1; i<=n; i++) {
